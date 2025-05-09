@@ -1,0 +1,11 @@
+/home/dray/dev/toy-mlir-matmul/build/CMakeFiles/intrinsics_gen.dir
+/home/dray/dev/toy-mlir-matmul/build/CMakeFiles/omp_gen.dir
+/home/dray/dev/toy-mlir-matmul/build/CMakeFiles/acc_gen.dir
+/home/dray/dev/toy-mlir-matmul/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/home/dray/dev/toy-mlir-matmul/build/CMakeFiles/mlir-tablegen-targets.dir
+/home/dray/dev/toy-mlir-matmul/build/CMakeFiles/mlir-headers.dir
+/home/dray/dev/toy-mlir-matmul/build/CMakeFiles/mlir-generic-headers.dir
+/home/dray/dev/toy-mlir-matmul/build/CMakeFiles/mlir-doc.dir
+/home/dray/dev/toy-mlir-matmul/build/CMakeFiles/matmul-driver.dir
+/home/dray/dev/toy-mlir-matmul/build/CMakeFiles/edit_cache.dir
+/home/dray/dev/toy-mlir-matmul/build/CMakeFiles/rebuild_cache.dir

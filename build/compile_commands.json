@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dray/dev/toy-mlir-matmul/build",
+  "command": "/usr/bin/c++  -I/home/dray/dev/mlir-install/include  -fno-rtti -g -o CMakeFiles/matmul-driver.dir/src/main.cpp.o -c /home/dray/dev/toy-mlir-matmul/cpp_driver/src/main.cpp",
+  "file": "/home/dray/dev/toy-mlir-matmul/cpp_driver/src/main.cpp"
+}
+]
