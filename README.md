@@ -4,7 +4,7 @@ A minimal C++ driver for loading and processing MLIR modules, focused on a simpl
 
 ## Overview
 
-This project demonstrates how to build a C++ application that:
+This project was to learn more about MLIR, Compilers, and building a C++ application that:
 - Initializes an MLIR context and loads required dialects
 - Parses an input MLIR file (e.g., `matmul.mlir`)
 - Applies standard MLIR transformation passes (canonicalization, CSE)
